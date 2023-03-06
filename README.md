@@ -9,8 +9,8 @@ for chrome user, https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkk
 
 for edge user, https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
-you can click https://github.com/sivitry/sinyiFastChange/raw/main/SinyiFastChangeImg.user.js
+Auto Install: click https://github.com/sivitry/sinyiFastChange/raw/main/SinyiFastChangeImg.user.js 
 
-or download and import sinyiFastChange.user.js
+Manual Install: download and import sinyiFastChange.user.js
 
 Now enjoy to use~
