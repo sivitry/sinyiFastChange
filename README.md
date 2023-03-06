@@ -9,7 +9,7 @@ for chrome user, https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkk
 
 for edge user, https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
-you can click sinyiFastChange.user.js and click RAW. (It will be auto installed to Tampermonkey)
+you can click https://github.com/sivitry/sinyiFastChange/raw/main/SinyiFastChangeImg.user.js
 
 or download and import sinyiFastChange.user.js
 
